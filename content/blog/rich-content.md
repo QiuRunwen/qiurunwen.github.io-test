@@ -8,7 +8,8 @@ featured: false
 ## figure
 
 ## ref in posts
-[Neat]({{< ref "posts/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min.zh" >}})
+[Neat]({{< ref "blog/videos.md" >}})
+[Who]({{< relref "blog/videos.md#who" >}})
 
 ## hide toggle
 {{< toggle summary="summary" >}}
